@@ -28,6 +28,7 @@ twitter_username: Kaede
 github_username:  Kaede
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
