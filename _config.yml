@@ -29,7 +29,7 @@ github_username:  Kaede
 
 # Build settings
 markdown: kramdown
-theme: minima
+remoto-theme: slate 
 plugins:
   - jekyll-feed
 
