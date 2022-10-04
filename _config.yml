@@ -29,8 +29,8 @@ github_username:  hamburgerkaee
 
 # Build settings
 markdown: kramdown
-# theme: minima
-remote-theme: slate
+theme: minima
+# remote-theme: 
 
 plugins:
 - jekyll-feed
