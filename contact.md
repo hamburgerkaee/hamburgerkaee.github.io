@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Send me a postcard!"
 ---
 

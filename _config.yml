@@ -29,11 +29,12 @@ github_username:  hamburgerkaee
 
 # Build settings
 markdown: kramdown
-theme: minima
-# remote-theme: 
+# theme: minima
+theme: jekyll-theme-hacker 
 
 plugins:
 - jekyll-feed
+- jekyll-remote-theme
 
 
 # Exclude from processing.
